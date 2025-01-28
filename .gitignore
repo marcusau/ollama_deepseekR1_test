@@ -20,3 +20,10 @@ rad.json
 *.flf
 #Test results file
 TestResults.xml
+
+### PYTHON ###
+#Virtual environment
+venv/
+venv
+__pycache__/
+*.pyc
